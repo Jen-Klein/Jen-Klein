@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jen-Klein
-- 👀 I’m interested in finding a full stack developer
-- 🌱 I’m currently learning angular
 - 📫 How to reach me jenklein@thepros.com
 
 <!---
